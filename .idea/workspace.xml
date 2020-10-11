@@ -20,17 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="677519b7-e3bc-46df-b915-acfa704d4da8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/first-vp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/first-vp/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-vp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/first-vp/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-vp/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/first-vp/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-vp/src/components/Greeting.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/first-vp/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/first-vp/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-vp/src/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-vp/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/first-vp/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,6 +48,7 @@
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -60,6 +61,14 @@
       <updated>1601304469769</updated>
       <workItem from="1601304470972" duration="15369000" />
       <workItem from="1601378528324" duration="4606000" />
+      <workItem from="1601808634882" duration="88000" />
+      <workItem from="1601809059313" duration="146000" />
+      <workItem from="1601809682349" duration="381000" />
+      <workItem from="1601883319632" duration="32000" />
+      <workItem from="1601883625310" duration="702000" />
+      <workItem from="1601886213320" duration="352000" />
+      <workItem from="1602330267039" duration="5710000" />
+      <workItem from="1602402452799" duration="424000" />
     </task>
     <servers />
   </component>
@@ -77,5 +86,19 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="229" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602337943947">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="446" y="229" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860@0.0.1440.860" timestamp="1602337943947" />
+    <state x="500" y="185" key="FileChooserDialogImpl" timestamp="1601884673488">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1601884673488" />
+    <state x="221" y="74" key="SettingsEditor" timestamp="1602332800474">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="221" y="74" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1602332800474" />
   </component>
 </project>

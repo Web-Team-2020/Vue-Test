@@ -1,20 +1,21 @@
 <template>
     <div>
-      <app-show></app-show>
-
+      <app-greeting></app-greeting>
     </div>
 </template>
 
 <script>
-import Show from './components/Show.vue';
+import Greeting from "@/components/Greeting";
 
 export default {
   components: {
-    'app-show': Show
+    'app-greeting': Greeting,
   }
 }
 </script>
 
 <style>
-
+ div{
+   background-color: black;
+ }
 </style>
